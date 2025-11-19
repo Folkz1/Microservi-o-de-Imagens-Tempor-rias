@@ -71,7 +71,7 @@ PORT=5000
 
 ```bash
 # Health check
-curl https://instagram-images.SEU-DOMINIO.easypanel.host/health
+curl https://n8n-microserviso-imagens-temporarias.7exngm.easypanel.host/health
 
 # Deve retornar:
 {
